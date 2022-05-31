@@ -1,0 +1,6 @@
+#define GENERATION_MAX		1000	// 世代交代数
+#define POP_SIZE		1000	// 個体集団内の個体の数
+#define ELITE			1	// エリート保存戦略で残す個体の数
+#define TOURNAMENT_SIZE		10	// トーナメント選択で無作為抽出する個体の数
+#define MUTATE_PROB		0.01	// 突然変異確率
+#define MAX_NUM			64	// フロイド問題におけるN

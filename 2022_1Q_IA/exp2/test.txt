@@ -1,0 +1,12 @@
+// 定数の定義
+#define GENERATION_MAX	2000
+#define POP_SIZE	3000
+#define ELITE	2
+#define TOURNAMENT_SIZE	5
+#define MUTATE_PROB	0.23
+#define MAX_NUM	425
+#define FUNCTION1	test()
+#define FUNC1EXPORT	"ラン選択"
+#define FUNCTION2	testing()
+#define FUNC2EXPORT	"交叉"
+
